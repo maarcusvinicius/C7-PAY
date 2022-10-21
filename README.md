@@ -38,11 +38,11 @@ Me aprofundar mais em Clean Code, Jarvascript, e utilização de IMask para apri
 </h1>
 
 <h2 id="Mobile"> 📲 Version Mobile </h2>
-<br><br>
-<div align="center" >
+<br>
+<h1 align="center" >
     <img align="center" height="302" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Web Img Ti2.png">
     <br>
-</div>
+</h1>
 
 Teste você mesmo!!🔎 https://c7-m3cl8n4sg-maarcusvinicius.vercel.app/
 
