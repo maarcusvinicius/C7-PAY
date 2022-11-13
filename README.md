@@ -1,4 +1,4 @@
-<h1 align="center">🏦 C7 PAY</h1>
+<h1 align="center">C7 PAY 🏦</h1>
 
 <p align="center">🚀 Validação de Cartão de Crédito! Uma ótima aplicação</br>que melhora a sua aprimoração de DOM!</p>
 
