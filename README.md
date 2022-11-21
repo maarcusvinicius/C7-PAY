@@ -9,11 +9,11 @@
   <a href="#-roadmap">Roadmap</a>
 </p>
 
-<br>
+<br />
 
 ## 💻 Version Web
 
-<br>
+<br />
 
 <div id="layout" align="center">
   <p align="stretch">
@@ -23,7 +23,7 @@
 
 ## 📲 Version Mobile
 
-<br>
+<br />
 
 <div id="layout" align="center">
   <p align="stretch">
@@ -31,11 +31,11 @@
   </p>
 </div>
 
-<br>
+<br />
 
 Teste você mesmo!!🔎 https://c7-m3cl8n4sg-maarcusvinicius.vercel.app/
 
-<br>
+<br />
 
 ## 🚀 Como executar
 
@@ -54,7 +54,7 @@ $ npm run / yarn run
 ```
 A aplicação pode ser acessada em [`localhost:5173`](http://localhost:5173).
 
-<br/>
+<br />
 
 ## 🔧 Tecnologias
 
@@ -68,23 +68,23 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Vite](https://vitejs.dev/)
 - [iMask](https://imask.js.org)
 
-<br/>
+<br />
 
 ## 💻 Projeto
 
 O C7 PAY é um projeto que simula uma adição de cartão de crédito via Web, onde é possível verificar qual é seu cartão com algumas variações de regras especificas feitas com JarvaScript. Penso em adicionar mais regras, e até criar talvez novos tipos de cartões.
 
-<br/>
+<br />
 
 ## ✅ Objetivo
 
 Me aprofundar mais em Clean Code, Jarvascript, e utilização de IMask para aprimoração de DOM para de futuros projetos, acessivel e de fácil compreensão!!
 
-<br/>
+<br />
 
 ## 🏍️ Roadmap
 
-<br/>
+<br />
 
     - [x] Criar version Web
 
@@ -98,14 +98,14 @@ Me aprofundar mais em Clean Code, Jarvascript, e utilização de IMask para apri
 
     - [x] Deploy Vercel
 
-<br>
+<br />
 
 <h4 align="center"> 
 	🚧  C7 PAY 🏦 EM CONSTRUÇÃO...  🚧
 </h4>
-<br>
+<br />
 
-<br>
+<br />
 
 Feito com ❤️ por Marcus Vinicius 👋🏽 Entre em contato!
 
