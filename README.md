@@ -73,7 +73,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O C7 PAY é um projeto que simula uma adição de cartão de crédito via Web, onde é possível verificar qual é seu cartão com algumas variações de regras especificas feitas com JarvaScript. Penso em adicionar mais regras, e até criar talvez novos tipos de cartões.
+O C7 PAY é um projeto que simula uma adição de cartão de crédito via Web, onde é possível verificar qual é seu cartão com algumas variações de regras específicas feitas com Jarvascript. Penso em adicionar mais regras, e até criar talvez novos tipos de cartões.
 
 <br />
 
