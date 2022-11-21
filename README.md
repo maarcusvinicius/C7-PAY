@@ -3,6 +3,7 @@
 <p align="center">🔥 Validação de Cartão de Crédito! Uma ótima aplicação</br>que melhora a sua aprimoração de DOM!</p>
 
 <p align="center">
+ <a href="#-executar">Como executar</a> •
  <a href="#-tecnologias">Tecnologias</a> •
  <a href="#-projeto">Projeto</a> • 
  <a href="#-objetivo">Objetivo</a> • 
