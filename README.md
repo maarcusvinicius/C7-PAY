@@ -19,15 +19,6 @@
 <div id="layout" align="center">
   <p align="stretch">
     <img align="center" height="200" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Web Img Ti1.png">
-  </p>
-</div>
-
-## 📲 Version Mobile
-
-<br />
-
-<div id="layout" align="center">
-  <p align="stretch">
     <img align="center" height="200" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Web Img Ti2.png">
   </p>
 </div>
@@ -53,7 +44,7 @@ $ npm install / yarn
 # Iniciar o projeto
 $ npm run / yarn run
 ```
-A aplicação pode ser acessada em [`localhost:5173`](http://localhost:5173).
+A aplicação pode ser acessada em [`localhost:#`](http://localhost:#).
 
 <br />
 
