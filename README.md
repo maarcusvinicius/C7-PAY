@@ -43,7 +43,7 @@ Teste você mesmo!!🔎 https://c7-m3cl8n4sg-maarcusvinicius.vercel.app/
 Clone o repositório e acesse a pasta.
 
 ```bash
-$ git clone https://github.com/maarcusvinicius/C7-PAY
+$ git clone https://github.com/maarcusvinicius/C7-PAY.git
 
 Para iniciar o projeto:
 
