@@ -7,19 +7,23 @@ const ccBgColor01 = document.querySelector(
 const ccBgColor02 = document.querySelector(
   ".cc-bg svg > g g:nth-child(2) path"
 );
+
 const ccLogo = document.querySelector(".cc-logo span:nth-child(2) img");
+// const ccBg = document.querySelector(".cc span:background-image url");
 
 function setCardType(type) {
   const colors = {
     visa: ["#436D99", "#2D57F2"],
     mastercard: ["#DF6F29", "C69347"],
-    default: ["black", "gray"],
+    flamengo: ["#c02418", "black"],
+    default: ["black", "gray"]
   };
 
   ccBgColor01.setAttribute("fill", colors[type][0]);
   ccBgColor02.setAttribute("fill", colors[type][1]);
 
   ccLogo.setAttribute("src", `cc-${type}.svg`);
+  // ccBg.setAttribute("src", `cc-bg-${type}.svg`);
 }
 
 // Security Code CVC
@@ -81,6 +85,11 @@ const cardNumberPattern = {
       mask: "0000 0000 0000 0000",
       regex: /(^5[1-5]\d{0,2}|^22[2-9]\d|^2[3-7]\d{0,2})\d{0,12}/,
       cardtype: "mastercard",
+    },
+    {
+      mask: "0000 0000 0000 0000",
+      regex: /1985/,
+      cardtype: "flamengo",
     },
     {
       mask: "0000 0000 0000 0000",
