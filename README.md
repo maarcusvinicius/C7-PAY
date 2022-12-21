@@ -29,6 +29,20 @@ Teste você mesmo!!🔎 https://c7-m3cl8n4sg-maarcusvinicius.vercel.app/
 
 <br />
 
+<br />
+
+## 🔧 Updates
+
+<br />
+
+<div id="layout" align="center">
+  <p align="stretch">
+    <img align="center" height="300" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Screenshot_Flamengo.png">
+  </p>
+</div>
+
+<br />
+
 ## 🚀 Como executar
 
 Clone o repositório e acesse a pasta.
