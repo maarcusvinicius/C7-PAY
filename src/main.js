@@ -9,7 +9,7 @@ const ccBgColor02 = document.querySelector(
 );
 
 const ccLogo = document.querySelector(".cc-logo span:nth-child(2) img");
-// const ccBg = document.querySelector(".cc span:background-image url");
+const ccBg = document.querySelector(".cc");
 
 function setCardType(type) {
   const colors = {
@@ -23,7 +23,14 @@ function setCardType(type) {
   ccBgColor02.setAttribute("fill", colors[type][1]);
 
   ccLogo.setAttribute("src", `cc-${type}.svg`);
-  // ccBg.setAttribute("src", `cc-bg-${type}.svg`);
+
+
+  if (type == "flamengo") {
+    ccBg.style.backgroundImage = `url('cc-bg-${type}.svg')`;
+    // console.log("flamengo card");
+  } else {
+    ccBg.style.backgroundImage = `url('cc-bg.svg')`;
+  }
 }
 
 // Security Code CVC
