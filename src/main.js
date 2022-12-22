@@ -9,7 +9,9 @@ const ccBgColor02 = document.querySelector(
 );
 
 const ccLogo = document.querySelector(".cc-logo span:nth-child(2) img");
+
 const ccBg = document.querySelector(".cc");
+const ccBu = document.querySelector("form button");
 
 function setCardType(type) {
   const colors = {
@@ -27,6 +29,7 @@ function setCardType(type) {
 
   if (type == "flamengo") {
     ccBg.style.backgroundImage = `url('cc-bg-${type}.svg')`;
+    ccBu.style.background = "#c02418";
     // console.log("flamengo card");
   } else {
     ccBg.style.backgroundImage = `url('cc-bg.svg')`;
@@ -95,7 +98,7 @@ const cardNumberPattern = {
     },
     {
       mask: "0000 0000 0000 0000",
-      regex: /1985/,
+      regex: /1895/,
       cardtype: "flamengo",
     },
     {
