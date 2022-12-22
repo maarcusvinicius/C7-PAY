@@ -25,7 +25,7 @@
 
 <br />
 
-Teste você mesmo!!🔎 https://c7-m3cl8n4sg-maarcusvinicius.vercel.app/
+Teste você mesmo!!🔎 https://c7-pay.vercel.app/
 
 <br />
 
