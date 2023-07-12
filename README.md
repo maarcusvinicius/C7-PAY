@@ -140,6 +140,17 @@ C7-PAY/
 - `package.json`: manifest file that contains information about the project, including name, description, version, author, license and project dependencies.
 
 <br />
+
+## License
+
+<p>
+
+This project is licensed under the [MIT License](https://opensource.org/license/mit/). Feel free to use, modify and distribute it as needed.
+
+</p>
+
+<br />
+<br />
 <br />
 <h4 align="center">
   🚧 C7 PAY 🏦 FINISHED 🚧
